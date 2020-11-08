@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beckbagmerchant/precache-manifest.c84d42512e2cb70fb772a661e4fe4cdd.js"
+  "/beckbagmerchant/precache-manifest.78a62dc99c3425d873f3201af9084997.js"
 );
 
 self.addEventListener('message', (event) => {
