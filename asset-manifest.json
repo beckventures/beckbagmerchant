@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beckbagmerchant/static/css/main.ada56379.chunk.css",
-    "main.js": "/beckbagmerchant/static/js/main.6d18f7d6.chunk.js",
-    "main.js.map": "/beckbagmerchant/static/js/main.6d18f7d6.chunk.js.map",
+    "main.js": "/beckbagmerchant/static/js/main.054f52d8.chunk.js",
+    "main.js.map": "/beckbagmerchant/static/js/main.054f52d8.chunk.js.map",
     "runtime-main.js": "/beckbagmerchant/static/js/runtime-main.2b036f15.js",
     "runtime-main.js.map": "/beckbagmerchant/static/js/runtime-main.2b036f15.js.map",
     "static/css/2.6a4ae3f9.chunk.css": "/beckbagmerchant/static/css/2.6a4ae3f9.chunk.css",
-    "static/js/2.4dab1199.chunk.js": "/beckbagmerchant/static/js/2.4dab1199.chunk.js",
-    "static/js/2.4dab1199.chunk.js.map": "/beckbagmerchant/static/js/2.4dab1199.chunk.js.map",
+    "static/js/2.3ddcc1fd.chunk.js": "/beckbagmerchant/static/js/2.3ddcc1fd.chunk.js",
+    "static/js/2.3ddcc1fd.chunk.js.map": "/beckbagmerchant/static/js/2.3ddcc1fd.chunk.js.map",
     "static/js/3.f88e1342.chunk.js": "/beckbagmerchant/static/js/3.f88e1342.chunk.js",
     "static/js/3.f88e1342.chunk.js.map": "/beckbagmerchant/static/js/3.f88e1342.chunk.js.map",
     "static/js/4.063e2599.chunk.js": "/beckbagmerchant/static/js/4.063e2599.chunk.js",
@@ -15,15 +15,15 @@
     "static/js/5.83f15a6e.chunk.js": "/beckbagmerchant/static/js/5.83f15a6e.chunk.js",
     "static/js/5.83f15a6e.chunk.js.map": "/beckbagmerchant/static/js/5.83f15a6e.chunk.js.map",
     "index.html": "/beckbagmerchant/index.html",
-    "precache-manifest.6ef6be57f6fefda28ddca703b3296ce9.js": "/beckbagmerchant/precache-manifest.6ef6be57f6fefda28ddca703b3296ce9.js",
+    "precache-manifest.a5c825f7abcda037abd29c68aae7337f.js": "/beckbagmerchant/precache-manifest.a5c825f7abcda037abd29c68aae7337f.js",
     "service-worker.js": "/beckbagmerchant/service-worker.js",
     "static/css/2.6a4ae3f9.chunk.css.map": "/beckbagmerchant/static/css/2.6a4ae3f9.chunk.css.map",
     "static/css/main.ada56379.chunk.css.map": "/beckbagmerchant/static/css/main.ada56379.chunk.css.map",
-    "static/js/2.4dab1199.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/2.4dab1199.chunk.js.LICENSE.txt",
+    "static/js/2.3ddcc1fd.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/2.3ddcc1fd.chunk.js.LICENSE.txt",
     "static/js/3.f88e1342.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/3.f88e1342.chunk.js.LICENSE.txt",
     "static/js/4.063e2599.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/4.063e2599.chunk.js.LICENSE.txt",
     "static/js/5.83f15a6e.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/5.83f15a6e.chunk.js.LICENSE.txt",
-    "static/js/main.6d18f7d6.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/main.6d18f7d6.chunk.js.LICENSE.txt",
+    "static/js/main.054f52d8.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/main.054f52d8.chunk.js.LICENSE.txt",
     "static/media/anime3.png": "/beckbagmerchant/static/media/anime3.bd6820f1.png",
     "static/media/nucleo-icons.css": "/beckbagmerchant/static/media/nucleo.f0b489a5.woff",
     "static/media/react-logo.png": "/beckbagmerchant/static/media/react-logo.eb6be414.png"
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.2b036f15.js",
     "static/css/2.6a4ae3f9.chunk.css",
-    "static/js/2.4dab1199.chunk.js",
+    "static/js/2.3ddcc1fd.chunk.js",
     "static/css/main.ada56379.chunk.css",
-    "static/js/main.6d18f7d6.chunk.js"
+    "static/js/main.054f52d8.chunk.js"
   ]
 }
