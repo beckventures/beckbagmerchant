@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/beckbagmerchant/static/css/main.ada56379.chunk.css",
-    "main.js": "/beckbagmerchant/static/js/main.4c098873.chunk.js",
-    "main.js.map": "/beckbagmerchant/static/js/main.4c098873.chunk.js.map",
+    "main.js": "/beckbagmerchant/static/js/main.ce86ad6f.chunk.js",
+    "main.js.map": "/beckbagmerchant/static/js/main.ce86ad6f.chunk.js.map",
     "runtime-main.js": "/beckbagmerchant/static/js/runtime-main.a5f9441e.js",
     "runtime-main.js.map": "/beckbagmerchant/static/js/runtime-main.a5f9441e.js.map",
     "static/css/2.89dd62f6.chunk.css": "/beckbagmerchant/static/css/2.89dd62f6.chunk.css",
@@ -15,7 +15,7 @@
     "static/js/5.868049fc.chunk.js": "/beckbagmerchant/static/js/5.868049fc.chunk.js",
     "static/js/5.868049fc.chunk.js.map": "/beckbagmerchant/static/js/5.868049fc.chunk.js.map",
     "index.html": "/beckbagmerchant/index.html",
-    "precache-manifest.df137b119e3a089ffbfafe68312796d2.js": "/beckbagmerchant/precache-manifest.df137b119e3a089ffbfafe68312796d2.js",
+    "precache-manifest.2d184ecc1333f9f0f6bc87db77987bd0.js": "/beckbagmerchant/precache-manifest.2d184ecc1333f9f0f6bc87db77987bd0.js",
     "service-worker.js": "/beckbagmerchant/service-worker.js",
     "static/css/2.89dd62f6.chunk.css.map": "/beckbagmerchant/static/css/2.89dd62f6.chunk.css.map",
     "static/css/main.ada56379.chunk.css.map": "/beckbagmerchant/static/css/main.ada56379.chunk.css.map",
@@ -23,7 +23,7 @@
     "static/js/3.9436733b.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/3.9436733b.chunk.js.LICENSE.txt",
     "static/js/4.0384fff6.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/4.0384fff6.chunk.js.LICENSE.txt",
     "static/js/5.868049fc.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/5.868049fc.chunk.js.LICENSE.txt",
-    "static/js/main.4c098873.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/main.4c098873.chunk.js.LICENSE.txt",
+    "static/js/main.ce86ad6f.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/main.ce86ad6f.chunk.js.LICENSE.txt",
     "static/media/UploadIcon.svg": "/beckbagmerchant/static/media/UploadIcon.1cedb6e9.svg",
     "static/media/anime3.png": "/beckbagmerchant/static/media/anime3.bd6820f1.png",
     "static/media/nucleo-icons.css": "/beckbagmerchant/static/media/nucleo.f0b489a5.woff",
@@ -34,6 +34,6 @@
     "static/css/2.89dd62f6.chunk.css",
     "static/js/2.9337cbb2.chunk.js",
     "static/css/main.ada56379.chunk.css",
-    "static/js/main.4c098873.chunk.js"
+    "static/js/main.ce86ad6f.chunk.js"
   ]
 }

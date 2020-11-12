@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7db49afc54168495139d7c49d430626a",
+    "revision": "c6b8761c7a18740f94a83bb442cfb9a0",
     "url": "/beckbagmerchant/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beckbagmerchant/static/css/2.89dd62f6.chunk.css"
   },
   {
-    "revision": "33350718a99a858daa0f",
+    "revision": "33b58bc79c99c6d13ccb",
     "url": "/beckbagmerchant/static/css/main.ada56379.chunk.css"
   },
   {
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beckbagmerchant/static/js/5.868049fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33350718a99a858daa0f",
-    "url": "/beckbagmerchant/static/js/main.4c098873.chunk.js"
+    "revision": "33b58bc79c99c6d13ccb",
+    "url": "/beckbagmerchant/static/js/main.ce86ad6f.chunk.js"
   },
   {
     "revision": "dc192b57bfed2afd6be1ea5558f17255",
-    "url": "/beckbagmerchant/static/js/main.4c098873.chunk.js.LICENSE.txt"
+    "url": "/beckbagmerchant/static/js/main.ce86ad6f.chunk.js.LICENSE.txt"
   },
   {
     "revision": "a866a61f331f4130ff5d",
