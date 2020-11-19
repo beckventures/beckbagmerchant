@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/beckbagmerchant/static/css/main.ada56379.chunk.css",
+    "main.css": "/beckbagmerchant/static/css/main.d72bcf5d.chunk.css",
     "main.js": "/beckbagmerchant/static/js/main.54e4aa16.chunk.js",
     "main.js.map": "/beckbagmerchant/static/js/main.54e4aa16.chunk.js.map",
     "runtime-main.js": "/beckbagmerchant/static/js/runtime-main.a5f9441e.js",
@@ -15,10 +15,10 @@
     "static/js/5.868049fc.chunk.js": "/beckbagmerchant/static/js/5.868049fc.chunk.js",
     "static/js/5.868049fc.chunk.js.map": "/beckbagmerchant/static/js/5.868049fc.chunk.js.map",
     "index.html": "/beckbagmerchant/index.html",
-    "precache-manifest.5198f625f952f65e1b2064db65ed91c2.js": "/beckbagmerchant/precache-manifest.5198f625f952f65e1b2064db65ed91c2.js",
+    "precache-manifest.d86a403c84ae998dbc9a4867b431cc8b.js": "/beckbagmerchant/precache-manifest.d86a403c84ae998dbc9a4867b431cc8b.js",
     "service-worker.js": "/beckbagmerchant/service-worker.js",
     "static/css/2.89dd62f6.chunk.css.map": "/beckbagmerchant/static/css/2.89dd62f6.chunk.css.map",
-    "static/css/main.ada56379.chunk.css.map": "/beckbagmerchant/static/css/main.ada56379.chunk.css.map",
+    "static/css/main.d72bcf5d.chunk.css.map": "/beckbagmerchant/static/css/main.d72bcf5d.chunk.css.map",
     "static/js/2.9337cbb2.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/2.9337cbb2.chunk.js.LICENSE.txt",
     "static/js/3.9436733b.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/3.9436733b.chunk.js.LICENSE.txt",
     "static/js/4.0384fff6.chunk.js.LICENSE.txt": "/beckbagmerchant/static/js/4.0384fff6.chunk.js.LICENSE.txt",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.a5f9441e.js",
     "static/css/2.89dd62f6.chunk.css",
     "static/js/2.9337cbb2.chunk.js",
-    "static/css/main.ada56379.chunk.css",
+    "static/css/main.d72bcf5d.chunk.css",
     "static/js/main.54e4aa16.chunk.js"
   ]
 }
